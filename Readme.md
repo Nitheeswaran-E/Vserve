@@ -2,6 +2,11 @@
 
 An intelligent chatbot that responds to employee queries about HR policies using LangChain's pandas query engine with Azure OpenAI integration.
 
+##Demo Video(Code working)
+
+https://github.com/user-attachments/assets/af70438b-0176-450d-b792-b0b6463a28fa
+
+
 ## 🚀 Features
 
 - **Smart Query Matching**: Uses TF-IDF similarity matching for direct FAQ responses
