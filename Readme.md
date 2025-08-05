@@ -85,20 +85,6 @@ python app.py
 
 The application will start on `http://localhost:5000`
 
-## 📁 Project Structure
-
-```
-hr-chatbot/
-│
-├── app.py                 # Main Flask application
-├── faqs.csv              # FAQ dataset
-├── requirements.txt      # Python dependencies
-├── .env.template         # Environment variables template
-├── .env                  # Your environment variables (create this)
-├── README.md            # This file
-└── templates/
-    └── index.html       # Chat interface template
-```
 
 ## 🔧 Configuration
 
