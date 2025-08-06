@@ -1,6 +1,6 @@
 # HR Policy Chatbot
 
-An intelligent chatbot that responds to employee queries about HR policies using LangChain's pandas query engine with Azure OpenAI integration.
+An intelligent chatbot that responds to employee queries about HR policies using LangChain's pandas query engine with open source model integration.
 
 ##Demo Video(Code working)
 
