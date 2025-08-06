@@ -4,7 +4,7 @@ An intelligent chatbot that responds to employee queries about HR policies using
 
 ##Demo Video(Code working)
 
-https://github.com/user-attachments/assets/af70438b-0176-450d-b792-b0b6463a28fa
+https://github.com/user-attachments/assets/cc701ed9-26fb-450b-85d3-7653e38ea8ee
 
 
 ## 🚀 Features
